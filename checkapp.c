@@ -1,5 +1,5 @@
 #include <checkapp.h>
-
+//gittets
 #define M_SIZE 1024
 static char sql[M_SIZE];
 
